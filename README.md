@@ -1,5 +1,3 @@
-# hardikpareek.github.io
-
 # Technical Support Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
